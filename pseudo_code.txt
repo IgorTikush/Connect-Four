@@ -1,0 +1,10 @@
+1. init grid 7x7
+2. draw a grid with empty cells
+3. get input from player
+4. set picked set to certain value
+5. check for win condition
+6. if win condition -> player wins
+7. if no win condition -> game continiues
+
+доделать ничью
+доделать ввод(только 1-7)
